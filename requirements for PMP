@@ -1,0 +1,78 @@
+Assignment 2 - Project Management Plan
+
+ 
+
+Scenario:
+
+You have become selected to manage a project for an existing system of your choice that should be a technical system with information and communication technology. Your software team is now asked to develop the systems new features/services using an agile software development methodology. You need to deliver a Project Management Plan (PMP) to develop the next release of the selected system (which you define in the introduction of the PMP), which consists of two sprints. Each sprint last for 4 weeks.
+
+ 
+
+The first task for your team is to choose a technical system with information and communication technology that you will deliver a PMP for. Examples of such systems are:
+
+Case record management systems in health care
+Electronic voting systems
+Banking systems
+Traffic surveillance for taxation in Gothenburg
+Volvo’s automatic breaking system
+The tax authority’s web portal for income-tax declaration
+Android
+Google’s Gmail service
+LADOK student administration system
+ICA-card customer log system and its direct advertising features [selected topic]
+ 
+
+Tasks (Table of Content):
+
+1. Introduction
+
+Includes the selected system, a description of the system, the scope and objectives of the project, and your assumptions to narrow down the project and/or project scope.
+Use the ID to refer to your assumptions whenever you deem necessary to support your arguments.
+2. Stakeholders
+
+Brief description of their needs
+Potential influences- both negative and positive
+3. Product Backlog
+
+Provide an overview of the features/requirements for the product
+4. Sprint backlog
+
+A subset of the features/requirements from the product backlog should be planned for two sprints, i.e. you should create one sprint backlog for each sprint. The prioritization from the product backlog to the sprint backlog must be based on effort estimations using planning poker and at least one more criterion (e.g. customer value), taking available resources (your entire team) into account.
+5. A Gantt chart (showing how you will execute the project). You should create one  Gantt chart for the entire release.
+
+6. Burn Down Charts. You should create one Burn Down Chart for the entire release (i.e. it includes all activities for both sprints). In addition, you should create a second Burn Down Chart for the second sprint, which should show that half of the second sprint has been completed.
+
+7. Resources assigned to each activity in the Gantt Chart
+
+8. Quality criteria
+
+To assess whether the project has delivered the desired app or services on acceptable quality.
+9. Risk plan
+
+Risk List, risk severity, impact and how you will mitigate
+ 
+
+Notes:
+
+Write your assumptions on the beginning of the PMP with traceable identification number (The ID number should help you to refer to your assumptions whenever you deem necessary to support your arguments).
+No need to write the detailed requirements in your assignment, but you need to identify features so that you can identify the stakeholders and make a realistic time plan.
+MAX 10 pages.
+Gantt chart can be added as appendices.
+Your submission will be evaluated by the Rubric (see attachment).
+ 
+
+===========
+
+Grading (in % of points):
+
+- 80% or more: A
+
+- 70% or more: B
+
+- 60% or more: C
+
+- 50% or more: D
+
+- 40% or more: E
+
+- less than 40% or 0pt in any of the rubrics: F
